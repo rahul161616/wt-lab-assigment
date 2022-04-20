@@ -1,0 +1,14 @@
+td{
+	text-align: center;
+}
+table{
+     table-layout: auto;
+     margin-left: 50px;
+     margin-right: 300px;
+     margin-bottom: 800px;
+     height: 10px;
+}
+div{
+	text-align: right;
+	position: 70px;
+}
