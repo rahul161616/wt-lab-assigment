@@ -7,6 +7,7 @@ table{
      margin-right: 300px;
      margin-bottom: 800px;
      height: 10px;
+     border-collapse: collapse;
 }
 div{
 	text-align: right;
