@@ -1,0 +1,19 @@
+
+span{
+	font-size: 300%;
+	font: italic;
+	background-color: pink;
+}
+body{
+	background-color: lightgreen;
+}
+div{
+	margin-left: 81%;
+	margin-top: 10%;
+}
+aside{
+	width: 25%;
+	float: left;
+	background-color: whitesmoke;
+	padding: 10px;
+}
