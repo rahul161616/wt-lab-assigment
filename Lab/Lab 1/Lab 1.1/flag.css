@@ -1,0 +1,33 @@
+body{
+	background-color: orangered;
+}
+div{
+	margin-left: 81%;
+	margin-top: 10%;
+}
+aside img {
+  display: block;
+   width: 120%;
+   height:100%;
+   margin-top: 10%;
+   padding: 20px;
+  }
+header {
+	background-color: mediumvioletred;
+	font-size: 30px;
+	text-align: center;
+  margin-bottom: 10px;
+}
+main {
+     display: flex;
+}
+footer {
+	margin-top:160px;
+}
+article{
+	display: flex;
+}
+p{
+	margin-left: 50px;
+	font-size: 25px;
+}

@@ -1,0 +1,10 @@
+body{
+	background-color: lightblue;
+}
+iframe{
+	background-color: skyblue;
+	margin-left: 30%;
+	margin-top: 5%;
+	padding: 20px;
+	object-fit: fill;
+}
