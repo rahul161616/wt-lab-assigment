@@ -14,7 +14,7 @@ a{
 .Btn-Btn3:hover{
 	border-bottom: 3px solid #D67559;
 }
-.Btn-Btn7,.Btn-Btn8,.Btn-Btn9{
+.Btn-Btn7,.Btn-Btn8,.Btn-Btn9{    /*disabled*/
          opacity: 50%;
          pointer-events: none;  
 }
@@ -43,25 +43,58 @@ background-color: #EE8363;
 }
 .Btn-Default{
 		border-radius: 60%;
-		padding: 7px;
+		padding: 5px;
 		margin-left: 15px;
 		border-color: #37C19C;
+		font-size: 20px;
 }
 .Btn-Primary{
 		margin-left: 25px;
 		border-color: #37C19C;
 }
 .Btn-Secondary{
-	background-color: lightgray;
+	background-color: #E5EBED;
 		margin-left: 25px;
-		color: black;
-		border-color: lightgrey;
+		color:  #72949E;
+		border-color:  #72949E;
 }
 .Btn-Destructive{
 	margin-left: 25px;
 	border-color:black;
 	background-color: #EE8363;
 	border-color: #EE8363;
+}
+.Btn-Btn10{
+	background-color: white;
+	color: #37C19C;
+}
+.Btn-Btn11{
+	background-color: white;
+    color: #72949E;
+}
+.Btn-Btn12{
+	background-color: white;
+    color: #EE8363;
+}
+
+.Btn-Btn13{
+	background-color: white;
+	color: #37C19C;
+	opacity: 50%;
+    pointer-events: none; 
+}
+.Btn-Btn14{
+	background-color: white;
+    color: #72949E;
+    opacity: 50%;
+    pointer-events: none; 
+}
+.Btn-Btn15{
+	background-color: white;
+    color: #EE8363;
+    opacity: 50%;
+    pointer-events: none; 
+
 }
 table{
 	margin-left: 432px;
