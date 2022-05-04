@@ -21,4 +21,5 @@ id :- The id global attribute defines an identifier (ID) which must be unique in
 
 Hover :
  hover selector is used to select elements when you mouse over them.
- 
+<br>
+ ![Screenshot](buttons.png)
