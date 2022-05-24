@@ -1,6 +1,6 @@
 [404 Not Found] (https://rahulsewa.live/lab3.html)
 <br>
-[BuyBlox](https://rahulsewa.live/buyblox.html)
+[BuyBlox] (https://rahulsewa.live/buyblox.html)
 <br>
 Date: 22 May 2022
 <br>
