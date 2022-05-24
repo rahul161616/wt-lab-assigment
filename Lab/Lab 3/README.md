@@ -1,5 +1,7 @@
 [404 Not Found] (https://rahulsewa.live/lab3.html)
 <br>
+[BuyBlox](https://rahulsewa.live/buyblox.html)
+<br>
 Date: 22 May 2022
 <br>
 Theory
@@ -22,3 +24,4 @@ By default, HTML buttons are presented in a style resembling the platform the us
 <br>
 
 ![Screenshot](lab3.png)
+![Screenshot](buyblox.png)
