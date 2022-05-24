@@ -1,0 +1,71 @@
+aside h2 {
+	/*This is for 404*/
+	display: inline;
+	font-family: sans-serif;
+	font-size: 60px;
+	color: blue;
+	position: relative;
+	top: 247px;
+	left: 450px;
+}
+
+.vl {     /*vertical line*/
+	border-left: 1px solid black;
+	padding-left: 5px;
+}
+
+.buttons{   /*two buttons left push*/
+	margin-left: 570px;
+}
+.container-fluid {
+	/*text align*/
+	margin-left: 150px;
+	width: 80%;         
+	min-height: 5vh;
+}
+
+.side h1 {
+	/* Page not found*/
+	color: black;
+	font-size: 50px;
+	font-family: 'Fantasy','Arial','sans-serif','serif';
+	letter-spacing: 1px;
+	display: inline;
+}
+
+.flex-column-center {
+	/*centre align*/
+	display: flex;
+	justify-content: center;
+	margin-top: 180px;
+}
+
+.url {
+	/*Please check the url bar*/
+	display: block;
+	margin-top: 2px;
+	font-family: sans-serif;
+	color: rgb(140, 135, 135);
+	column-gap: 2000px;
+}
+
+.Btn {
+	/*go back home*/
+	border: solid 6px rgb(31, 31, 159);
+	border-radius:6px;
+	padding: 5px;
+	background-color: rgb(31, 31, 159);
+	color: white;
+	text-decoration: none;
+
+}
+
+.Btn1 {
+	/*contact support*/
+	border: solid 6px lightgray;
+	border-radius: 6px;
+	padding: 5px;
+	background-color: lightgray;
+	color: blue;
+	text-decoration: none;
+}
