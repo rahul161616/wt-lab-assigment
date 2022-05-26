@@ -4,6 +4,8 @@
 <br>
 Date: 22 May 2022
 <br>
+[Nav Bar] (https://rahulsewa.live/navbar.html)
+Date: 5/26/2022
 Theory
 Display
 
@@ -23,5 +25,34 @@ By default, HTML buttons are presented in a style resembling the platform the us
 
 <br>
 
+<br>
+
+Absolute-The element is positioned relative to its first positioned (not static) ancestor element.
+Fixed-The element is positioned relative to the browser window	
+Relative-The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position
+
+The <input> tag specifies an input field where the user can enter data.
+
+The <input> element is the most important form element.
+
+The <input> element can be displayed in several ways, depending on the type attribute.
+
+For eg-<input type="text"> (default value)
+
+What is SVG?
+SVG stands for Scalable Vector Graphics.
+SVG is used to define vector-based graphics for the Web.
+SVG defines the graphics in XML format
+Every element and every attribute in SVG files can be animated.
+SVG is a W3C recommendation.
+SVG integrates with other W3C standards such as the DOM and XSL.
+
+To insert an icon, add the name of the icon class to any inline HTML element.
+
+The <i> and <span> elements are widely used to add icons.
+
+All the icons in the icon libraries below, are scalable vector icons that can be customized with CSS (size, color, shadow, etc.)
+
 ![Screenshot](lab3.png)
 ![Screenshot](buyblox.png)
+![Screenshot](navss.png)
