@@ -1,13 +1,24 @@
 [404 Not Found] (https://rahulsewa.live/lab3.html)
 <br>
-[BuyBlox] (https://rahulsewa.live/buyblox.html)
 <br>
+Buyblox Work link
+[BuyBlox] (https://rahulsewa.live/buyblox.html)
 Date: 22 May 2022
 <br>
+<br>
+Nav Bar Work link
 [Nav Bar] (https://rahulsewa.live/navbar.html)
 Date: 5/26/2022
-Theory
-Display
+<br>
+<br>
+Theory-
+
+Display property
+Position porperty
+Input tag
+SVG
+Icon tag 
+Img tag
 
 The display CSS property sets whether an element is treated as a block or inline element and the layout used for its children, such as flow layout, grid or flex.
 Formally, the display property sets an element's inner and outer display types. The outer type sets an element's participation in flow layout; the inner type sets the layout of children. Some values of display are fully defined in their own individual specifications; for example the detail of what happens when display: flex is declared is defined in the CSS Flexible Box Model specification.
@@ -52,7 +63,16 @@ To insert an icon, add the name of the icon class to any inline HTML element.
 The <i> and <span> elements are widely used to add icons.
 
 All the icons in the icon libraries below, are scalable vector icons that can be customized with CSS (size, color, shadow, etc.)
-
+<br>
+<br>
+404
 ![Screenshot](lab3.png)
+<br>
+<br>
+
+BuyBlox
 ![Screenshot](buyblox.png)
+<br>
+<br>
+Nav Bar
 ![Screenshot](navss.png)
