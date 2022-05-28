@@ -11,8 +11,11 @@ Nav Bar Work link
 Date: 5/26/2022
 <br>
 <br>
+Date: 5/28/2022
+CTA Work Link
+[CTA] (https://rahulsewa.live/cta.html)
 Theory-
-
+<br>
 Display property
 Position porperty
 Input tag
@@ -76,3 +79,6 @@ BuyBlox
 <br>
 Nav Bar
 ![Screenshot](navss.png)
+<br>
+<br>
+![Screenshot](ctass.png)

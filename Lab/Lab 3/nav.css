@@ -36,6 +36,8 @@ a {
     display: block;
     border: solid 2px white;
     z-index: 1;
+        background-color: white;
+
 }
 
 .hover {
@@ -89,4 +91,7 @@ img {
     border-radius: 30px;
     left: 28px;
     top: -10px;
+}
+body{
+        background-color: rgb(222, 221, 221);
 }
