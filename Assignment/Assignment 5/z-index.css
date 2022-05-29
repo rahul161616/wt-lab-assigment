@@ -1,0 +1,86 @@
+* {
+    margin: 0px;
+}
+
+h5 {
+    display: block;
+    background-color: rgb(2, 2, 78);
+    color: white;
+    padding: 25px;
+    font-family: sans-serif;
+}
+
+.box1 {
+    border: solid 2px;
+    background-color: rgb(255, 254, 254);
+    width: 20%;
+    margin-left: 80px;
+    margin-top: 80px;
+    /* height: auto; */
+    padding: 20px;
+    border-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 4px gray
+}
+
+.box1 li {
+    margin-left: 15px;
+}
+
+.box1 p {
+    margin-left: 8px;
+}
+
+.box1 h3 {
+    margin-left: 10px;
+}
+
+.Btn {
+    text-decoration: none;
+    display: block;
+    border: solid 1px;
+    padding: 6px 20px 6px 20px;
+    margin-top: 15px;
+    color: black;
+    background-color: whitesmoke;
+    margin-left: 25px;
+    text-align: center;
+    margin-right: 20px;
+    position: relative;
+    z-index: 2;
+}
+
+.box2 {
+    background-color: white;
+    border: solid 2px;
+    width: 20%;
+    margin-left: 80px;
+    margin-top: 80px;
+    /* height: auto; */
+    padding: 20px;
+    border-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 4px gray;
+    position: relative;
+    left: 322px;
+    top: -304px;
+    z-index: 6;
+}
+
+.box3 {
+    border: solid 2px;
+    width: 20%;
+    margin-left: 80px;
+    margin-top: 80px;
+    /* height: auto; */
+    padding: 20px;
+    border-color: whitesmoke;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 4px gray;
+    position: relative;
+    float: right;
+    top: -608px;
+    margin-right: 426px;
+    z-index: 1;
+    background-color: white;
+}
