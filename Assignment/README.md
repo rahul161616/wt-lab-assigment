@@ -9,5 +9,5 @@ Assignment 4 Routine<br>
 <br>
 <br>
 Assignment 5 Z-index<br>
-![Screenshot](./zindex.jpg)
+![Screenshot](./zindex.png)
 [Z-index] (https://rahulsewa.live/z-index.html)
