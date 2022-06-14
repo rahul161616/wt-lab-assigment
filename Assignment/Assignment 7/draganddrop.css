@@ -1,0 +1,27 @@
+.box 
+{
+  width: 80px;
+  height: 80px;
+  border: 1px solid #000000;
+  margin: 10px;
+  text-align: center;
+  font-size: x-large;
+  position: absolute;
+  padding: 10px 20px;
+  color: white;
+}
+#Ringa 
+{
+     background-color: red;
+}
+    
+#Ring 
+{
+     background-color: green;
+     left: 20vh;
+}
+#Rose 
+{
+  background-color: blue;
+  left: 40vh;
+}

@@ -13,3 +13,6 @@ Assignment 5 Z-index<br>
 [Z-index] (https://rahulsewa.live/z-index.html)
 <br>
 [Project Website] (https://rahulsewa.live)
+<br>
+[Drag and drop] (https://rahulsewa.live/Assignment%207/dragandrop.html)
+<br>
