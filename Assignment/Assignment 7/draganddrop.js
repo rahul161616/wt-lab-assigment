@@ -6,7 +6,7 @@ document.querySelector("#Rose")
 document.addEventListener("mousedown", onMouseDown);
 
 function onMouseDown(event) {
-let element = event.target 
+let element = event.target;
 let shiftX = event.clientX - element.getBoundingClientRect().left;
 let shiftY = event.clientY - element.getBoundingClientRect().top;
 
