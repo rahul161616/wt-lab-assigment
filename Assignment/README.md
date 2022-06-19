@@ -22,24 +22,37 @@ Assignment 5 Z-index<br>
 </br>
    Step 1- Installation Of XAMPP(There are many btw..can be done using any)
    Step 2-
-           (In xampp)
+           (In xampp)<br>
            {
+            <br>
               (In htdocs)
+              <br>
               {
+                <br>
                 create 2 folders
+                <br>
                 1)hello (inside hello index.php)
+                <br>
                 1)second (inside second index.php)
+                <br>
               }
+              <br>
            } 
+           <br>
         
 
    Step 2- In xampp {
+    <br>
             (In apache){
-               (In conf) 
+                <br>
+               (In conf)
+               <br> 
                {
+                <br>
                 (In extra){
+                    <br>
                    In httpd-vhosts-
-
+                    <br>
                     <VirtualHost *:80>
                      DocumentRoot "C:\xampp\htdocs\github\wt-git-assignment\Assignment\Assignment 8\hello"
                      ServerName hello.local
@@ -54,29 +67,30 @@ Assignment 5 Z-index<br>
             } 
    Step 3-
    { 
-     (In C drive)
-      {
-        (In Windows)
-          {
-            (System 32)
-              {
-                drivers -
-                etc -
-                hosts-
-                127.0.0.1    hello.local
-                127.0.0.1    second.local
-             }
-          }
-        }
-      }
-    }
+    <br>
+     (In C drive)<br>
+      {<br>
+        (In Windows)<br>
+          {<br>
+            (System 32)<br>
+              {<br>
+                drivers -<br>
+                etc -<br>
+                hosts-<br>
+                127.0.0.1    hello.local<br>
+                127.0.0.1    second.local<br>
+             }<br>
+          }<br>
+        }<br>
+      }<br>
+    }<br>
 Step 4-
-        Open XAMPP
-        Start apache server
-        Goto browser
-        type
-        http://hello.local
-        http://second.local
+        Open XAMPP<br>
+        Start apache server<br>
+        Goto browser<br>
+        type<br>
+        http://hello.local<br>
+        http://second.local<br>
 
 <br>
 
