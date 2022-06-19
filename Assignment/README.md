@@ -20,8 +20,8 @@ Assignment 5 Z-index<br>
 <br>
 <b>Creating Local Host - (Assignment 8[2022/6/19-20(7:00 AM)])</b>
 </br>
-   Step 1- Installation Of XAMPP(There are many btw..can be done using any)
-   Step 2-
+   Step 1- Installation Of XAMPP (There are many btw..can be done using any)<br>
+   Step 2-<br>
            (In xampp)<br>
            {
             <br>
@@ -41,7 +41,7 @@ Assignment 5 Z-index<br>
            <br>
         
 
-   Step 2- In xampp {
+   Step 3- In xampp<br> {
     <br>
             (In apache){
                 <br>
@@ -65,7 +65,7 @@ Assignment 5 Z-index<br>
                 }
                }
             } 
-   Step 3-
+   Step 4-<br>
    { 
     <br>
      (In C drive)<br>
@@ -84,8 +84,8 @@ Assignment 5 Z-index<br>
         }<br>
       }<br>
     }<br>
-Step 4-
-        Open XAMPP<br>
+Step 5-
+        Open XAMPP<br><br>
         Start apache server<br>
         Goto browser<br>
         type<br>
