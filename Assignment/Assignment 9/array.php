@@ -11,7 +11,7 @@ $gces_Staffs =
                 "subject" => ["maths", "science", "C++"]
             ],
             [
-                "name" => "Hello",
+                "name" => "Hello", 
                 "address" => "Pokhara,Davisfall",
                 "phoneno" => ["98131313"],
                 "subject" => ["C++", "WT", "MFCs"]
