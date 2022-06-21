@@ -100,13 +100,13 @@ Apache Xampp is an open source tool used for running PHP or PERL Web application
 Xampp is a free and open source cross-platform Web server solution stack package developed by Apache Friends. It comes loaded with an Apache HTTP server, MariaDB, and MySQL. It also has interpreters for the programming languages PHP and PERL. Xampp is one of the most popular solutions for running PHP apps locally on Windows. Pronounced as Shamp, it is an abbreviation for ‘cross-platform MySQL PHP and Perl’.
 
 <br>
-Assignment [Tue June 21/22 - Wed June 22/22]
+Assignment 8 [Tue June 21/22 - Wed June 22/22]
 sort() - sort arrays in ascending order
 rsort() - sort arrays in descending order
 asort() - sort associative arrays in ascending order, according to the value
 ksort() - sort associative arrays in ascending order, according to the key
 arsort() - sort associative arrays in descending order, according to the value
-krsort() - sort associative arrays in descending order, according to the key
+krsort() - sort associative arrays in descending order, according to the key.
 <br>
 
 
